@@ -1,6 +1,6 @@
 # 3D Christmas Tree
 
-Animated 3D Christmas tree for Wayland.
+Animated 3D Christmas tree for Wayland. Made with assembly.
 
 ## Dependencies
 
