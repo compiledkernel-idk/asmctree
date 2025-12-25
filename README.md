@@ -2,6 +2,8 @@
 
 Animated 3D Christmas tree for Wayland. Made with assembly.
 
+![Screenshot](screenshot_20251225_170725.png)
+
 ## Dependencies
 
 ```
